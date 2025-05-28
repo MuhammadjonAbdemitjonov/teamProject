@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 100%;
+    width: 100%;
+    padding: 0 121px;
+    margin: auto;
+}
+.about{
+    width: 100%;
+    margin: auto;
+}
+.Quality{
+    display: flex;
+    justify-content: space-between;
+}
+.Quality__text h1{
+    font-size: 64px;
+    line-height: 76px;
+    color: #2E2E2E;
+}
+.Quality__text p{
+    margin: 40px 0 80px 0;
+    font-size: 16px;
+    color: #808080;
+    line-height: 32px;
+}
+.Quality__text button{
+    width: 160px;
+    height: 48px;
+    padding: 12px;
+    border-radius: 8px;
+    background-color: #F84646;
+    color: wheat;
+    border: none;
+}
+.Quality__img img{
+    border-radius: 8px;
+}
+.Tests{
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+}
