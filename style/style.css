@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 .container{
-    max-width: 1440px;
+    max-width: 1260px;
     width: 100%;
-    padding: 0 121px;
+    padding: 0 60px;
     margin: auto;
 }
 .about{
