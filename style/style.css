@@ -13,6 +13,9 @@
     width: 100%;
     margin: auto;
 }
+.about button:hover{
+    background-color: #ff0000;
+}
 .Quality{
     display: flex;
     justify-content: space-between;
